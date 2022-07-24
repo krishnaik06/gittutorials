@@ -1,4 +1,4 @@
-## Git Tutorial By Developer 
+## Git Tutorial By Developer B 
 ## Please susbcriibe to my channel
 
 ##changes to be commited
